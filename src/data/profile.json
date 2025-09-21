@@ -1,0 +1,272 @@
+{
+  "personal": {
+    "name": "Kritin Joshi",
+    "title": "Full Stack Developer",
+    "tagline": "I love building web experiences that feel fast, smooth, and effortless.",
+    "bio": "Passionate full-stack developer with 8+ years of experience creating scalable web applications. I love turning complex problems into simple, beautiful solutions that users enjoy.",
+    "location": "India",
+    "email": "kritin.joshi.5@email.com",
+    "phone": "+91 7976210082",
+    "avatar": "/avatar.png"
+  },
+  "social": {
+    "github": "https://github.com/kritinjoshi5",
+    "linkedin": "https://www.linkedin.com/in/kritin-joshi/",
+    "website": "https://kritinjoshi.in"
+  },
+  "skills": {
+    "frontend": [
+      {
+        "name": "React",
+        "level": 95,
+        "category": "Frontend"
+      },
+      {
+        "name": "Angular",
+        "level": 75,
+        "category": "Frontend"
+      },
+      {
+        "name": "TypeScript",
+        "level": 90,
+        "category": "Frontend"
+      },
+      {
+        "name": "Vite.js",
+        "level": 75,
+        "category": "Frontend"
+      },
+      {
+        "name": "Next.js",
+        "level": 85,
+        "category": "Frontend"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": 92,
+        "category": "Frontend"
+      },
+      {
+        "name": "Vue.js",
+        "level": 75,
+        "category": "Frontend"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Python",
+        "level": 82,
+        "category": "Backend"
+      },
+      {
+        "name": "FastAPI",
+        "level": 82,
+        "category": "Backend"
+      },
+      {
+        "name": "Flask",
+        "level": 82,
+        "category": "Backend"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": 85,
+        "category": "Backend"
+      },
+      {
+        "name": "MongoDB",
+        "level": 78,
+        "category": "Backend"
+      },
+      {
+        "name": "Node.js",
+        "level": 88,
+        "category": "Backend"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Docker",
+        "level": 85,
+        "category": "Tools"
+      },
+      {
+        "name": "AWS",
+        "level": 80,
+        "category": "Tools"
+      },
+      {
+        "name": "Postman",
+        "level": 80,
+        "category": "Tools"
+      },
+      {
+        "name": "Git",
+        "level": 95,
+        "category": "Tools"
+      },
+      {
+        "name": "Figma",
+        "level": 70,
+        "category": "Tools"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "AgenticFlow",
+      "description": "Agentic AI and LLM Based Tool to Generate Data Driven Content for Clients. A Complete Agentic Solution for all domains.",
+      "technologies": [
+        "React",
+        "FastApi",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "Vite.js",
+        "langchain",
+        "openai",
+        "react-flow"
+      ],
+      "demo": "http://eks.tigeragentflow.com/",
+      "image": "",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "BI Next",
+      "description": "Tiger Analytics (in-house product)- A modern business intelligence platform design to deliver intereactive analytics, self-reporting, and advanced insight to end users.",
+      "technologies": [
+        "React",
+        "FastApi",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "Vite.js",
+        "Azure Fabric Warehouse and Lakehouse",
+        "PowerBIApi",
+        "Azure MSAL Login",
+        "TableauApi"
+      ],
+      "demo": "http://binext.tigeranalytics.com/",
+      "image": "",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Configzilla (private package)",
+      "description": "A Nodejs based package that provides A centralized configuration management system design to steamline the creation, storage, and maintain of server-side configuration parameters across applications and environments.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "D3.js",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "demo": "",
+      "image": "",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Configurator",
+      "description": "User tool to customise all user’s need with the application. user can create reactive forms, list view, dashboard, workflows, tabs and slides, details page, etc.",
+      "technologies": [
+        "Vue.js",
+        "MongoDB",
+        "Bootstrap"
+      ],
+      "demo": "https://provakil.com/",
+      "image": "",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Report Viewer",
+      "description": "Hierarchical report viewer, that is using parent report data to see the depth of next data. Generate report on set of information and using a single node of that data, user can dive in and explore more for the same instance, and go further as much they want.",
+      "technologies": [
+        "Vue.js",
+        "MongoDB",
+        "Bootstrap"
+      ],
+      "demo": "https://provakil.com/",
+      "image": "",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tiger Analytics",
+      "position": "Lead Application Engineer (Web)",
+      "duration": "March 2022 - Present",
+      "description": "As a Lead Application Engineer, I spearheaded the design and development of data-driven full-stack web applications, collaborating closely with data scientists and analysts to turn insights into scalable products. I played a key role in choosing the right tech stack, setting up cloud infrastructure, and overseeing end-to-end deployment. In addition to hands-on coding, I led project planning, distributed tasks among peers, and ensured timely, high-quality delivery while maintaining close communication with clients to align technical solutions with business needs.",
+      "bullets": [
+        "Leading Multiple Web Applications Development, Design and Deployment"
+      ],
+      "projects": [
+        "BI Next",
+        "Web Scenario Planner",
+        "AgenticFlow",
+        "Configzilla: In-house Node package to maintain configuration files in a unified and secure manner, using a server based approach. Developers can use package to levarage configuration files in a unified and make changes on a hosted server if needed."
+      ],
+      "technologies": [
+        "React",
+        "Angular",
+        "Python",
+        "FastApi",
+        "Flask",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "company": "Pvkl Tech Services ( Provakil )",
+      "position": "Sr. Frontend Developer",
+      "duration": "Aug 2019 - March 2022",
+      "description": "Owned multiple modules of industry leading application",
+      "bullets": [
+        "Migration of production web app incrementally with 5000 DAU from backbone to Vuejs",
+        "Building modules for highly configurable workflows",
+        "Studies of user interactions and modified parts of applications for enhanced UX and More interactive features",
+        "Collaboration with cross-functional teams to implement new features and improve existing functionality"
+      ],
+      "technologies": [
+        "Vue.js",
+        "Backbone.js",
+        "Python",
+        "MongoDB"
+      ]
+    },
+    {
+      "company": "Sanskrut Corporation",
+      "position": "Frontend Developer",
+      "duration": "June 2016 - Aug 2019",
+      "description": "Built multiple SaaS management systems for off-shore clients",
+      "bullets": [
+        "Learning Management System: Develop and maintain code of frontend and UI, Enhance User Experience and design mockups and prototypes",
+        "Project Management System: Handle team size of 4 people, gathering client requirements and distribute in team.",
+        "and more Saas projects"
+      ],
+      "projects": [
+        "Learning Management System",
+        "Project Management System",
+        "Quickarands: A TODO Solution"
+      ],
+      "technologies": [
+        "Angular",
+        "SCSS",
+        "Python",
+        "Firebase",
+        "Google Cloud Platform",
+        "Google APIs and Services (Map, Mail, etc.)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor's of Engineering - Electrical and Electronics Engineering",
+      "duration": "2014 - 2020"
+    }
+  ]
+}
