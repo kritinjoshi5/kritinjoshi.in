@@ -155,9 +155,11 @@
       "title": "Configzilla (private package)",
       "description": "A Nodejs based package that provides A centralized configuration management system design to steamline the creation, storage, and maintain of server-side configuration parameters across applications and environments.",
       "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
         "Python",
         "Flask",
-        "D3.js",
         "PostgreSQL",
         "Docker"
       ],
